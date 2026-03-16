@@ -1,4 +1,4 @@
-# Trello Clone - Next.js
+# Trello Clone - Next.js Full Stack
 
 A modern project management tool inspired by Trello, built with Next.js, Supabase, and Clerk. This full-stack application provides a comprehensive board experience with drag-and-drop functionality, real-time collaboration, and subscription-based features.
 
